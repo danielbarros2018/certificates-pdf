@@ -1,0 +1,14 @@
+{
+    "name": "barros/certificado",
+    "description": "Criar certificados com os nomes dos participantes do evento.",
+    "require": {
+            "ext-mysqli": "*",
+        "mpdf/mpdf": "^8.2"
+    },
+    "authors": [
+        {
+            "name": "Daniel Barros",
+            "email": "danielbarros.android@gmail.com"
+        }
+    ]
+}
