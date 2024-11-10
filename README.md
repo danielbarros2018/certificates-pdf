@@ -41,8 +41,9 @@ e na imagem assinatura.png, também em /resources
 16 const PDF_SIGNATURE_FILE = PDF_SOURCE_DIRECTORY . '/assinatura.png';
 ```  
 é feita a junção no arquivo com o "Nome do Participante.pdf" no diretório /results
-###### (conforme constam exemplos)  
+###### (conforme constam exemplos já incluídos em /results)  
 <br>
+
 ### Referencias  
 >[mPDF](https://github.com/mpdf/mpdf)  
 >[Composer](https://getcomposer.org/)  
