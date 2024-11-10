@@ -1,4 +1,4 @@
-# Geração certificados de participação de cursos em .pdf
+# Geração certificados de participação em .pdf    
 ###### (ou para inserir algum texto, imagem ou HTML em arquivos PDF. Necessário modificações conforme necessidade)
 ## Motivação
 Recentemente ao concluir um curso (on-line) fui surpreendido pela demora na geração do meu certificado de conclusão.  
