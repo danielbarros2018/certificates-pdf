@@ -4,9 +4,9 @@ require __DIR__ . '/vendor/autoload.php';
 use Mpdf\Mpdf;
 
 // Constants for database connection
-const HOST = '192.168.1.2';
+const HOST = 'localhost';
 const USER = 'root';
-const PASSWORD = 'casaos';
+const PASSWORD = 'root123';
 const DATABASE = 'certificados';
 
 const PDF_SOURCE_FILE = 'certificado.pdf';
