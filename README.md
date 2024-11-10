@@ -1,6 +1,7 @@
 # Geração certificados de participação em .pdf
 ###### (ou para inserir algum texto, imagem ou HTML em arquivos PDF. Necessário modificações conforme necessidade)
 <br>
+
 ## Motivação
 Recentemente ao concluir um curso (on-line) fui surpreendido pela demora na geração do meu certificado de conclusão.  
 Em contato com a instituição, fui informado que o processo de confecção do certificado leveria alguns dias. Após alguns dias de espera, recebi um arquivo .pdf com o certificado. Ao abri-lo notei que era apenas um símples PDF, sem criptografia, metadados, assinatura digital ou outros dados que justificassem a demora na emissão.  
