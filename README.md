@@ -24,7 +24,9 @@ php mkCert.php
 ``` 
 <br>
 O que o mkCert faz:  
-![diagram.jpeg](diagram.jpeg)  
+
+![diagram.jpeg](diagram.jpeg)
+<br>
 <br>
 Baseado no arquivo certificado.pdf do diretório /resources
 
@@ -39,7 +41,7 @@ e na imagem assinatura.png, também em /resources
 é feita a junção no arquivo com o "Nome do Participante.pdf" no diretório /results
 ###### (conforme constam exemplos)  
 
-### Referencias
-> [mPDF](https://github.com/mpdf/mpdf)  
-> [Composer](https://getcomposer.org/)  
-> [Mockaroo](https://www.mockaroo.com/?utm_source=pocket_saves) - Utilizado para gerar os nomes para os testes.  
+### Referencias  
+>[mPDF](https://github.com/mpdf/mpdf)  
+>[Composer](https://getcomposer.org/)  
+>[Mockaroo](https://www.mockaroo.com/?utm_source=pocket_saves) - Utilizado para gerar os nomes para os testes.  
